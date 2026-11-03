@@ -126,6 +126,7 @@ The project team consists of:
 - Harsh Parashar
 - Rajeshwary Shil
 - Vaibhav Maheshwari
+- Akhil
 
 The project uses GitHub to share notebooks, document decisions, and maintain version history.
 
