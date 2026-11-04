@@ -1,4 +1,4 @@
-# Team9_Olist_BigData_Project
+# Team10_Olist_BigData_Project
 Olist E-Commerce Data Transformation using Databricks, PySpark and Delta Lake
 
 
@@ -129,7 +129,7 @@ Run the notebooks sequentially and inspect any failed checks before using the da
 
 ### Team
 
-Team 9 – Big Data Project Work
+Team 10 – Big Data Project Work
 
 ### Project Status
 
