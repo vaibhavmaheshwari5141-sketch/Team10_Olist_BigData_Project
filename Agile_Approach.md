@@ -1,7 +1,7 @@
 # Agile Approach to the Big Data Project
 
 **Project:** Olist E-Commerce Data Transformation and Analytics  
-**Team:** Team 9  
+**Team:** Team 10  
 **Course:** Big Data Project Work  
 **Checkpoint:** 3 – Data Transformation
 
